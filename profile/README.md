@@ -21,7 +21,7 @@ This repo is organized as a set of individual documents describing a single mess
 
 ## Other Resources
 
-- [Full documentation](https://uma.me)
+- [Full documentation](https://docs.uma.me)
 - Example VASP Implementations or Tests:
   - [Golang VASP using Gin](https://github.com/lightsparkdev/go-sdk/tree/main/examples/uma-server)
   - [Rust VASP using activex_web](https://github.com/lightsparkdev/lightspark-rs/blob/main/examples/uma-demo/src/main.rs)
