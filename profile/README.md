@@ -2,7 +2,7 @@
 
 ![Github_Header](https://github.com/uma-universal-money-address/.github/assets/1393755/813c6296-1e2b-481b-8abd-33836a823670)
 
-UMA is open source, global, and enables anyone to send and receive money 24/7 in any fiat or cryptocurrency using their favorite wallet, exchange, or bank.
+UMA lets anyone send and receive money (fiat and crypto) 24/7 using their favorite UMA-enabled wallet, exchange, or bank. UMA is global and open source.
 This github org contains repos for the protocol specification as well as SDKs for several different languages.
 
 ## [Protocol Spec Repository](https://github.com/uma-universal-money-address/protocol)
@@ -29,4 +29,4 @@ This repo is organized as a set of individual documents describing a single mess
   - [Java tests for UMA](https://github.com/uma-universal-money-address/uma-kotlin-sdk/blob/main/javatest/src/test/java/me/uma/javatest/UmaTest.java)
   - [Python Tests](https://github.com/uma-universal-money-address/uma-python-sdk/blob/main/uma/__tests__/test_uma.py)
   - [Typescript VASP using express](https://github.com/lightsparkdev/js-sdk/tree/main/apps/examples/uma-vasp)
-- [UMA Discord](https://discord.gg/K4e7ghAJ)
+- [UMA Discord](https://discord.gg/TNmFMPfn)
