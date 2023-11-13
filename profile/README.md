@@ -29,4 +29,4 @@ This repo is organized as a set of individual documents describing a single mess
   - [Java tests for UMA](https://github.com/uma-universal-money-address/uma-kotlin-sdk/blob/main/javatest/src/test/java/me/uma/javatest/UmaTest.java)
   - [Python Tests](https://github.com/uma-universal-money-address/uma-python-sdk/blob/main/uma/__tests__/test_uma.py)
   - [Typescript VASP using express](https://github.com/lightsparkdev/js-sdk/tree/main/apps/examples/uma-vasp)
-- [UMA Discord](https://discord.gg/TNmFMPfn)
+- [UMA Discord](https://discord.gg/kw3kSHg9HD)
